@@ -21,7 +21,7 @@ public class SudarshanKriyaMain extends BaseClass {
 		sk.sudKriya(driver);
 		SudarshanKriya title=new SudarshanKriya();
 		title.secondcomponent(driver);
-		
+	System.out.println("");	
 	}
 	
 }
