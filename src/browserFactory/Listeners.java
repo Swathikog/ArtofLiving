@@ -19,5 +19,9 @@ public class Listeners extends Screenshot implements ITestListener {
 		public void onTestSuccess() {
 		System.out.println("Test Implemented successfully");
 	}
+		public void onTestSkipped() {
+			System.out.println("Test skipped successfully");
+		}
+		
 	
 }

@@ -19,6 +19,8 @@ public class SudarshanKriyaMain extends BaseClass {
 	public void mm() throws InterruptedException {
 		SudarshanKriya sk=new SudarshanKriya();
 		sk.sudKriya(driver);
+		SudarshanKriya title=new SudarshanKriya();
+		title.secondcomponent(driver);
 		
 	}
 	

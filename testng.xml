@@ -6,6 +6,7 @@
   <parameter name="browser" value="chrome"></parameter>
     <classes>
       <class name="execution.SudarshanKriyaMain"/>
+           
     </classes>
   </test> <!-- Test -->  
 </suite> <!-- Suite -->
